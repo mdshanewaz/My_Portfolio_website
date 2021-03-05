@@ -4,7 +4,7 @@ Tags: elementor, elements, addons, elementor addon, elementor widget, elementor 
 Requires at least: 5.0
 Tested up to: 5.6
 Requires PHP: 5.6
-Stable tag: 4.4.0
+Stable tag: 4.5.2
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -85,7 +85,7 @@ We have designed 42 of the most useful widgets to enhance your Elementor Page Bu
 38. [Formstack](https://essential-addons.com/elementor/formstack/) - Design your Formstack forms within Elementor. 
 39. [Woo Checkout](https://essential-addons.com/elementor/woo-checkout/) - Create your own WooCommerce Checkout page and customize and design everything. 
 40. [Typeform](https://essential-addons.com/elementor/typeform/) - Embed and Design your Typeform forms within Elementor.
-41. [Login | Register Form] (https://essential-addons.com/elementor/login-register-form/) - Create amazing and attractive login or registration forms in Elementor 
+41. [Login | Register Form](https://essential-addons.com/elementor/login-register-form/) - Create amazing and attractive login or registration forms in Elementor 
 42. [Woo Product Compare](https://essential-addons.com/elementor/woo-product-compare/) - Create stunning WooCommerce Product Compare table instantly
 
 
@@ -226,6 +226,38 @@ Your existing elements/content will work with premium version. So you won't lose
 
 
 == Changelog ==
+
+= 4.5.2 - 03/03/2021 =
+
+- Added: Dynamic query option for EA Woo Product Grid
+- Fixed: EA Login/Register Form | Error/Success message not appearing after Registration
+- Fixed: EA Advanced Accordion | Showing a border around the tab
+- Fixed: EA Facebook Feed | Preview content settings not working properly
+- Few minor bug fix and improvements
+
+= 4.5.1 - 23/02/2021 =
+- Fixed: EA Login Register Form | ‘Security Token Does Not Match’ error
+- Fixed: EA Product Grid | Pagination disappearing with the latest update
+- Fixed: EA Product Grid | ‘Filtered by Sale’ not working for variable products
+- Fixed: EA Image Accordion | toggle option to add link in the content
+- Fixed: EA Event Calendar | Date showing invalid for All day events
+- Fixed: EA Advanced Data Table | Sorting not working on Mozilla Firefox
+- Fixed: EA Post Grid | ‘Dynamic’ query not working
+- Fixed: EA Event Calendar | 24 Hours format not working correctly
+- Fixed: EA Product Grid | ‘Filtered by Sale’ not working for variable products
+- Fixed: EA Sticky Video | Copy Link button not working
+- Fixed: EA Creative Button | Icon color not changing
+- Few minor bug fix and improvements
+
+= 4.5.0 - 08/02/2021 =
+- Added: Quick Setup wizard for new installations
+- Few minor bug fix and improvements
+
+= 4.4.1 - 29/01/2021 =
+- Fixed: EA Filterable Gallery | style controls not working after Elementor update
+- Fixed: EA Fancy Text | not working inside Elementor Editor
+- Few minor bug fix and improvements
+
 
 = 4.4.0 - 26/01/2021 =
 - Added: EA Woo Product Compare
